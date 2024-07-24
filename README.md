@@ -1,8 +1,7 @@
 # data project
 # Log File Analysis
 ## Introduction
-This project involves the analysis of a log file to extract and analyze key fields such as IP address, timestamp, request method, URL, status code, response size, and query parameters. The objective is to gain insights from the log data and present the findings through visualizations.
-
+This project involves the analysis of a log file to extract and analyze key fields such as IP address, timestamp, request method, URL, status code, response size, and query parameters. 
 ## Data Extraction and Cleaning
 The log file was parsed using Python with the help of regular expressions to extract the relevant fields. The extracted data includes:
 - IP Address
